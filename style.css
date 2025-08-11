@@ -170,3 +170,7 @@ h5 {
 .redacted:focus {
   background: white;
 }
+
+#blue {
+  color: blue
+}
